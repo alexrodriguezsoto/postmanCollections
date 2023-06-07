@@ -25,7 +25,7 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "https://api.octoperf.com:443/public/users/login?username=alexrodriguezsoto@outlook.com&password=Myschool1",
+					"raw": "https://api.octoperf.com:443/public/users/login?username=@outlook.com&password=",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -41,11 +41,11 @@
 					"query": [
 						{
 							"key": "username",
-							"value": "alexrodriguezsoto@outlook.com"
+							"value": "@outlook.com"
 						},
 						{
 							"key": "password",
-							"value": "Myschool1"
+							"value": ""
 						}
 					]
 				}
